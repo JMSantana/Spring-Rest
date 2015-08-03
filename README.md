@@ -1,7 +1,7 @@
 # Spring-Rest
 Spring + Resteasy + Maven + JUnit + Mockito + AngularJS + Karma + Jasmine + Wildfly POC 
 
-This is a POC using some of the technologies above.
+This is a POC using the technologies above.
 
 The project has been built using Maven and is set to run in Wildfly 8.x.
 
